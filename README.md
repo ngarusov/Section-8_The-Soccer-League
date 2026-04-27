@@ -1,11 +1,11 @@
 # Section-8_The-Soccer-League
 
-##Main
+## Main
 -
 -
-##Game
+## Game
 -
 -
-##Team
+## Team
 -
 -
