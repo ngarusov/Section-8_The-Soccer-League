@@ -9,7 +9,7 @@
   - switch statement for teams
   - setters
   - print statement for end of season
--record WLT class
+- record WLT class
 teams[]
 ## Team/Game method
 - The team and game methods have a teams and game class respectively
