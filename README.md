@@ -2,6 +2,15 @@
 
 ## Main method
 - We have a return statement in our Game and Team classes so that we can get the value of those variables for use in our main method
+- main class
+  - arraylist of games played
+  - random rand
+  - conditionals for temperature
+  - switch statement for teams
+  - setters
+  - print statement for end of season
+-record WLT class
+teams[]
 ## Team/Game method
 - The team and game method we have a teams and game class respectively
 - within a data field of the teams class we instantiated teams names, win,loss,& tie totals, total goals scored, and total goals allowed
