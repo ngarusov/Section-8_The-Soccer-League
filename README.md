@@ -1,5 +1,10 @@
 # Section-8_The-Soccer-League
 
+## Spiral Model
+- Design 
+- Develop
+- Test
+
 ## Main method
 - We have a return statement in our Game and Team classes so that we can get the value of those variables for use in our main method
 - main class
