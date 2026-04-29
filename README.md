@@ -1,6 +1,7 @@
 # Section-8_The-Soccer-League
 
 ## Spiral Model
+What was the purpose of each method and class?
 - Design 
 - Develop
 - Test
